@@ -1,0 +1,9 @@
+*.log
+__pycache__
+tmp1.pkl
+data/*
+venv/*
+.ipynb_checkpoints/*
+.DS_Store
+Untitled1.ipynb
+Sinhala Translation.ipynb

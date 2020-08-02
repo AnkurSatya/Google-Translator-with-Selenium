@@ -1,0 +1,30 @@
+data/
+├── failures
+│   ├── failues_1951_2000.txt
+│   ├── failues_2951_3000.txt
+│   ├── failures_1000_1951.txt
+│   ├── failures_2000_2951.txt
+│   ├── failures_3000_4000.txt
+│   ├── failures_4000_5000.txt
+│   ├── failures_5951_6000.txt
+│   ├── failures_6951_7000.txt
+│   ├── failures_7000_8000.txt
+│   ├── failures_8000_9000.txt
+│   └── failures_9000_10000.txt
+└── translated
+    ├── csvs(empty folder intially. Will be populated with dataframes' csvs once you run the code)
+    └── pickle
+        ├── eng_to_sinhala_0_1000.pkl
+        ├── eng_to_sinhala_1000_1951.pkl
+        ├── eng_to_sinhala_1951_2000.pkl
+        ├── eng_to_sinhala_2000_2951.pkl
+        ├── eng_to_sinhala_2951_3000.pkl
+        ├── eng_to_sinhala_3000_4000.pkl
+        ├── eng_to_sinhala_4000_5000.pkl
+        ├── eng_to_sinhala_5000_5951.pkl
+        ├── eng_to_sinhala_5951_6000.pkl
+        ├── eng_to_sinhala_6000_6951.pkl
+        ├── eng_to_sinhala_6951_7000.pkl
+        ├── eng_to_sinhala_7000_8000.pkl
+        ├── eng_to_sinhala_8000_9000.pkl
+        └── eng_to_sinhala_9000_10000.pkl
